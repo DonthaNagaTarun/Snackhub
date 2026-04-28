@@ -62,6 +62,8 @@ This project was built as:
 
 # 🔗 Live Demo
 
+https://snackhub-swart.vercel.app
+
 
 ---
 
